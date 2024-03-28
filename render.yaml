@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: proxy-creator-kantan-keisan-3
+    name: proxy-creator-kantan-keisan-2
     env: python
     region: Oregon
     plan: free
